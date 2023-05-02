@@ -7,3 +7,5 @@ Afterwards, one player needs to click on host in the game and the other player n
 To get the ip right click the hosts name on hamatchi and copy address. Paste that address into the join screen and click join.
 
 you should be able to connect to the game then.
+
+original game rules can be found here: https://catastrophic.york.ac.uk/rules
